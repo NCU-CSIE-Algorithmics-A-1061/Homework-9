@@ -12,4 +12,4 @@ end
   winners << winner
 end
 
-p winners.sort!
+p winners.sort! # [2, 3, 4, 6, 8, 13, 14, 17] by https://travis-ci.org/NCU-CSIE-Algorithmics-A-1061/Homework-9/builds/310021057#L488
